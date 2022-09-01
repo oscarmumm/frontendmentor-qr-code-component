@@ -12,6 +12,7 @@ font-family: 'Outfit', sans-serif;
 body {
     font-family: 'Outfit', sans-serif;
     min-width: 350px;
+    font-size: 15px;
 }
 
 main {
@@ -24,13 +25,13 @@ main {
     padding: 2em;
 }
 
-h2 {
+h1 {
+    font-size: 1.5em;
     color: #1C2D4A;
     padding: .4em;
 }
 
 p {
-    font-size: 15px;
     color: #ABABB5;
     padding: 1.5em;
 }
